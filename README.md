@@ -12,7 +12,7 @@ Kilian Stäuble
 
 ## 23.2.2024
 
-✍️ Heute habe ich am Modul 187 mit Nando Rey gearbeitet. wir haben den Auftrag 187_0703 bearbeitet. Wir mussten die Anschlüsse von unserem Laptop analysieren und in einer Tabelle verschiedene Attribute aufzählen. Nachdem ich fertig war mit dem Auftrag, fügte ich es in die Dokumentation ein. Nachdem ich die Modulaufgaben beendet habe, habe ich angefangen an meinem Projekt zu arbeiten. Ich habe schon den Haupt HTML Code geschrieben, sowohl als auch eine simple CSS-Datei. (73)
+Heute habe ich am Modul 187 mit Nando Rey gearbeitet. wir haben den Auftrag 187_0703 bearbeitet. Wir mussten die Anschlüsse von unserem Laptop analysieren und in einer Tabelle verschiedene Attribute aufzählen. Nachdem ich fertig war mit dem Auftrag, fügte ich es in die Dokumentation ein. Nachdem ich die Modulaufgaben beendet habe, habe ich angefangen an meinem Projekt zu arbeiten. Ich habe schon den Haupt HTML Code geschrieben, sowohl als auch eine simple CSS-Datei. (73)
 
 ## 1.3.2024
 
