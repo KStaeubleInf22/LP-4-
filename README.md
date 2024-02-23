@@ -12,19 +12,21 @@ Kilian Stäuble
 
 ## 23.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich am Modul 187 mit Nando Rey gearbeitet. wir haben den Auftrag 187_0703 bearbeitet. Wir mussten die Anschlüsse von unserem Laptop analysieren und in einer Tabelle verschiedene Attribute aufzählen. Nachdem ich fertig war mit dem Auftrag, fügte ich es in die Dokumentation ein. Nachdem ich die Modulaufgaben beendet habe, habe ich angefangen an meinem Projekt zu arbeiten. Ich habe schon den Haupt HTML Code geschrieben, sowohl als auch eine simple CSS-Datei. (73)
 
 ## 1.3.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Aufträge im Modul 187 bearbeiten.
+- [ ] Die wöchentliche Dokumentation für 187 fertigstellen.
+- [ ] Javaskript funktionen anfangen.
+- [ ] CSS Datei optimieren.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               |Keine übrigen Aufträge für die Woche.|Unerfüllte Aufträge.|Fertigstellung mit Lernpartner falls nötig.|...|
+| 2             |Fertigestellte Dokumentation.|Unfertige Dokumentation.|Fertigstellung und Abgabe der Dokumentation|...|
+| 3               |Implementation von Javafunktionen.|Kein Javacode.|Einführung von Java, dass ich benutzen kann um die 3D Modelle aufzuzeigen.|...|
+| 4             |Bearbeitung der CSS Datei.|Anspruchslose und hässliche Website.|Bearbeitung der CSS, so damit sie anspruchsvoll und angenehm aussieht.|...|
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
