@@ -30,8 +30,8 @@ Heute habe ich am Modul 187 mit Nando Rey gearbeitet. wir haben den Auftrag 187_
 
 Heute habe ich direkt an meinem HTML-Projekt angefangen, da ich schon mit den Aufträgen vom Modul 187 fertig war. Ich habe damit angefangen, meine CSS-Datei zu gestalten, so damit die Website anspruchsvoller war. Ich habe dann angefangen, nachzuschauen, wie ich 3D Modelle einfügen kann. Ich habe mehrere Tutorials und Artikel angeschaut und habe mich dann schlussendlich auf eine entschieden. Ich konnte erfolgreich ein 3D Model aufzeigen, auf ich muss noch herausfinden, wie ich es machen kann, dass es ein Model aus einer eigenen Datenbank sein kann. (86)
 
-![WEBSITE](<img width="950" alt="WEBSITE3D" src="https://github.com/KStaeubleInf22/LP-4-/assets/111045576/5462ccb7-700e-440f-804e-a98e7c5ef6ca">
-)
+![WEBSITE](https://github.com/KStaeubleInf22/LP-4-/assets/111045576/03128086-eb52-4c62-8073-f1ca76713579)
+
 
 ## 8.3.2024
 
