@@ -51,7 +51,7 @@ Ich habe heute nur an den Abgaben für Modul 187 gearbeitet. Wir hatten mehrere 
 
 ## 15.3.2024
 
-- [] Aufträge im Modul 187 bearbeiten.
+- [ ] Aufträge im Modul 187 bearbeiten.
 - [ ] Die wöchentliche Dokumentation für 187 fertigstellen.
 - [ ] eigene Modelle benutzen.
 - [ ] Import funktionen einfügen.
