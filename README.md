@@ -28,7 +28,7 @@ Heute habe ich am Modul 187 mit Nando Rey gearbeitet. wir haben den Auftrag 187_
 | 3               |Implementation von Javafunktionen.|Kein Javacode.|Einführung von Java, dass ich benutzen kann um die 3D Modelle aufzuzeigen.|Ja|
 | 4             |Bearbeitung der CSS Datei.|Anspruchslose und hässliche Website.|Bearbeitung der CSS, so damit sie anspruchsvoll und angenehm aussieht.|Ja|
 
-Heute habe ich direkt an meinem HTML-Projekt angefangen, da ich schon mit den Aufträgen vom Modul 187 fertig war. Ich habe damit angefangen, meine CSS-Datei zu gestalten, so damit die Website anspruchsvoller war. Ich habe dann angefangen, nachzuschauen, wie ich 3D Modelle einfügen kann. Ich habe mehrere Tutorials und Artikel angeschaut und habe mich dann schlussendlich auf eine entschieden. Ich konnte erfolgreich ein 3D Model aufzeigen, auf ich muss noch herausfinden, wie ich es machen kann, dass es ein Model aus einer eigenen Datenbank sein kann. (86)
+Heute habe ich direkt an meinem HTML-Projekt angefangen, da ich schon mit den Aufträgen vom Modul 187 fertig war. Ich habe damit angefangen, meine CSS-Datei zu gestalten, so damit die Website anspruchsvoller war. Ich habe dann angefangen, nachzuschauen, wie ich 3D Modelle einfügen kann. Ich habe mehrere Tutorials und Artikel angeschaut und habe mich dann schlussendlich auf eine entschieden. Ich konnte erfolgreich ein 3D Model aufzeigen, auf ich muss noch herausfinden, wie ich es machen kann, dass es ein Model aus einer eigenen Datenbibliothek sein kann. (86)
 
 ![WEBSITE](https://github.com/KStaeubleInf22/LP-4-/assets/111045576/03128086-eb52-4c62-8073-f1ca76713579)
 
