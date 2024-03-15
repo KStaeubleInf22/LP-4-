@@ -35,15 +35,31 @@ Heute habe ich direkt an meinem HTML-Projekt angefangen, da ich schon mit den Au
 
 ## 8.3.2024
 
-- [ ] Unerfüllte Aufträge im Modul 187 fertigstellen.
+- [x] Unerfüllte Aufträge im Modul 187 fertigstellen.
+- [x] Die wöchentliche Dokumentation für 187 fertigstellen.
+- [ ] eigene Modelle benutzen.
+- [ ] Import funktionen einfügen.
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |Keine übrigen Aufträge im Modul 187.|Unerfüllte Aufträge.|Fertigstellung von den aufträgen der Woche mit  Lernpartner falls nötig.| Ja |
+| 2             |Vollendete Dokumentation.|Unfertige Dokumentation.|Fertigstellung und Abgabe der Dokumentation| Ja |
+| 3               |Implementation von eigennen Modelle.|Eigenes Model sehen wollen.|Eine Datenbank erstellen, von der ich meine Modelle herbeiholen kann.| Nein |
+| 4             |Einfügung einer Import funktion für 3D Modelle.|Das 3D Model aufzeigen können.|Import drücken und Datei auswählen.| Nein |
+
+Ich habe heute nur an den Abgaben für Modul 187 gearbeitet. Wir hatten mehrere Aufträge und die zu erfüllen hat länger gebraucht, als ich gedacht hätte. Wir arbeiten mit der VirtualBox in diesem Modul, und heute hatte ich mehrere Probleme mit der VirtualBox und es war sehr zeitaufwändig diese Fehler zu lösen. Ich habe auch danach das Dokumentieren für die Aufträge erstellt. (62)
+
+## 15.3.2024
+
+- [] Aufträge im Modul 187 bearbeiten.
 - [ ] Die wöchentliche Dokumentation für 187 fertigstellen.
 - [ ] eigene Modelle benutzen.
 - [ ] Import funktionen einfügen.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |Keine übrigen Aufträge im Modul 187.|Unerfüllte Aufträge.|Fertigstellung von den aufträgen der Woche mit  Lernpartner falls nötig.||
-| 2             |Vollendete Dokumentation.|Unfertige Dokumentation.|Fertigstellung und Abgabe der Dokumentation||
+| 1               |Keine übrigen Aufträge für die Woche.|Unerfüllte Aufträge.|Fertigstellung mit Lernpartner falls nötig.||
+| 2             |Fertigestellte Dokumentation.|Unfertige Dokumentation.|Fertigstellung und Abgabe der Dokumentation||
 | 3               |Implementation von eigennen Modelle.|Eigenes Model sehen wollen.|Eine Datenbank erstellen, von der ich meine Modelle herbeiholen kann.||
 | 4             |Einfügung einer Import funktion für 3D Modelle.|Das 3D Model aufzeigen können.|Import drücken und Datei auswählen.||
 
