@@ -77,7 +77,7 @@ Ich habe heute nur an den Abgaben für Modul 187 gearbeitet. Wir hatten mehrere 
 | 3               |Implementation von eigennen Modelle.|Eigenes Model sehen wollen.|Eine Datenbank erstellen, von der ich meine Modelle herbeiholen kann.|nein|
 | 4             |Einfügung einer Import funktion für 3D Modelle.|Das 3D Model aufzeigen können.|Import drücken und Datei auswählen.|nein|
 
-Ich habe heute den ganzen Tag versucht, lösungen zu finden, wie ich meine eigenen 3D modelle einfügen kann. Ich habe mehrere wege versucht aber schlussentlich konnte ich es nicht schaffen, mein eigenes 3D Model einzufügen für die Website. Ich bin entäuscht, dass ich es nicht schaffen konnte, dieses problem zu lösen. Ich weiss nicht wie ich wirklich an diesem Projekt arbeiten kann, ohne dieses problem zuerst zu lösen.(68)
+Ich habe heute den ganzen Tag versucht, Lösungen zu finden, wie ich meine eigenen 3D Modelle einfügen kann. Ich habe mehrere Wege versucht, aber schlussendlich konnte ich es nicht schaffen, mein eigenes 3D Model einzufügen für die Website. Ich bin enttäuscht, dass ich es nicht schaffen konnte, dieses Problem zu lösen. Ich weiss nicht, wie ich wirklich an diesem Projekt arbeiten kann, ohne dieses Problem zuerst zu lösen.(68)
 
 ## 5.4.2024
 
