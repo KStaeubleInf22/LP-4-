@@ -51,7 +51,7 @@ Ich habe heute nur an den Abgaben für Modul 187 gearbeitet. Wir hatten mehrere 
 
 ## 15.3.2024
 
-- [ ] Aufträge im Modul 187 bearbeiten.
+- [x] Aufträge im Modul 187 bearbeiten.
 - [ ] Die wöchentliche Dokumentation für 187 fertigstellen.
 - [ ] eigene Modelle benutzen.
 - [ ] Import funktionen einfügen.
@@ -62,6 +62,32 @@ Ich habe heute nur an den Abgaben für Modul 187 gearbeitet. Wir hatten mehrere 
 | 2             |Fertigestellte Dokumentation.|Unfertige Dokumentation.|Fertigstellung und Abgabe der Dokumentation||
 | 3               |Implementation von eigennen Modelle.|Eigenes Model sehen wollen.|Eine Datenbank erstellen, von der ich meine Modelle herbeiholen kann.||
 | 4             |Einfügung einer Import funktion für 3D Modelle.|Das 3D Model aufzeigen können.|Import drücken und Datei auswählen.||
+
+## 22.3.2024
+
+- [x] Aufträge im Modul 187 bearbeiten.
+- [ ] Die wöchentliche Dokumentation für 187 fertigstellen.
+- [ ] eigene Modelle benutzen.
+- [ ] Import funktionen einfügen.
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |Keine übrigen Aufträge für die Woche.|Unerfüllte Aufträge.|Fertigstellung mit Lernpartner falls nötig.|nein|
+| 2             |Fertigestellte Dokumentation.|Unfertige Dokumentation.|Fertigstellung und Abgabe der Dokumentation|nein|
+| 3               |Implementation von eigennen Modelle.|Eigenes Model sehen wollen.|Eine Datenbank erstellen, von der ich meine Modelle herbeiholen kann.|nein|
+| 4             |Einfügung einer Import funktion für 3D Modelle.|Das 3D Model aufzeigen können.|Import drücken und Datei auswählen.|nein|
+
+Ich habe heute den ganzen Tag versucht, lösungen zu finden, wie ich meine eigenen 3D modelle einfügen kann. Ich habe mehrere wege versucht aber schlussentlich konnte ich es nicht schaffen, mein eigenes 3D Model einzufügen für die Website. Ich bin entäuscht, dass ich es nicht schaffen konnte, dieses problem zu lösen. Ich weiss nicht wie ich wirklich an diesem Projekt arbeiten kann, ohne dieses problem zuerst zu lösen.(68)
+
+## 5.4.2024
+
+- [ ] Versuchen das Problem zu lösen
+- [ ] Aufträge im Modul 187 bearbeiten.
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1             |Keine übrigen Aufträge im Modul 187.|Unerfüllte Aufträge.|Fertigstellung von den aufträgen der Woche mit  Lernpartner falls nötig.||
+| 2             |Versuchen, eigene Modelle aufzuziegen.|Start vom Program.|Funktionales aufzeigen des Models.||
 
 ## Reflexion
 
