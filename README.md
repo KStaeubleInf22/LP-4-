@@ -58,10 +58,10 @@ Ich habe heute nur an den Abgaben für Modul 187 gearbeitet. Wir hatten mehrere 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |Keine übrigen Aufträge für die Woche.|Unerfüllte Aufträge.|Fertigstellung mit Lernpartner falls nötig.||
-| 2             |Fertigestellte Dokumentation.|Unfertige Dokumentation.|Fertigstellung und Abgabe der Dokumentation||
-| 3               |Implementation von eigennen Modelle.|Eigenes Model sehen wollen.|Eine Datenbank erstellen, von der ich meine Modelle herbeiholen kann.||
-| 4             |Einfügung einer Import funktion für 3D Modelle.|Das 3D Model aufzeigen können.|Import drücken und Datei auswählen.||
+| 1               |Keine übrigen Aufträge für die Woche.|Unerfüllte Aufträge.|Fertigstellung mit Lernpartner falls nötig.|Ja|
+| 2             |Fertigestellte Dokumentation.|Unfertige Dokumentation.|Fertigstellung und Abgabe der Dokumentation|Nein|
+| 3               |Implementation von eigennen Modelle.|Eigenes Model sehen wollen.|Eine Datenbank erstellen, von der ich meine Modelle herbeiholen kann.|Nein|
+| 4             |Einfügung einer Import funktion für 3D Modelle.|Das 3D Model aufzeigen können.|Import drücken und Datei auswählen.|Nein|
 
 ## 22.3.2024
 
@@ -72,23 +72,29 @@ Ich habe heute nur an den Abgaben für Modul 187 gearbeitet. Wir hatten mehrere 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |Keine übrigen Aufträge für die Woche.|Unerfüllte Aufträge.|Fertigstellung mit Lernpartner falls nötig.|nein|
-| 2             |Fertigestellte Dokumentation.|Unfertige Dokumentation.|Fertigstellung und Abgabe der Dokumentation|nein|
-| 3               |Implementation von eigennen Modelle.|Eigenes Model sehen wollen.|Eine Datenbank erstellen, von der ich meine Modelle herbeiholen kann.|nein|
-| 4             |Einfügung einer Import funktion für 3D Modelle.|Das 3D Model aufzeigen können.|Import drücken und Datei auswählen.|nein|
+| 1               |Keine übrigen Aufträge für die Woche.|Unerfüllte Aufträge.|Fertigstellung mit Lernpartner falls nötig.|Nein|
+| 2             |Fertigestellte Dokumentation.|Unfertige Dokumentation.|Fertigstellung und Abgabe der Dokumentation|Nein|
+| 3               |Implementation von eigennen Modelle.|Eigenes Model sehen wollen.|Eine Datenbank erstellen, von der ich meine Modelle herbeiholen kann.|Nein|
+| 4             |Einfügung einer Import funktion für 3D Modelle.|Das 3D Model aufzeigen können.|Import drücken und Datei auswählen.|Nein|
 
 Ich habe heute den ganzen Tag versucht, Lösungen zu finden, wie ich meine eigenen 3D Modelle einfügen kann. Ich habe mehrere Wege versucht, aber schlussendlich konnte ich es nicht schaffen, mein eigenes 3D Model einzufügen für die Website. Ich bin enttäuscht, dass ich es nicht schaffen konnte, dieses Problem zu lösen. Ich weiss nicht, wie ich wirklich an diesem Projekt arbeiten kann, ohne dieses Problem zuerst zu lösen.(68)
 
 ## 5.4.2024
 
-- [ ] Versuchen das Problem zu lösen
+- [ ] Versuchen das Problem zu lösen.
 - [ ] Aufträge im Modul 187 bearbeiten.
+- [ ] Aufträge im Modul 106 Bearbeiten.
+- [ ] Portfolio vom Modul 106 Bearbeiten.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1             |Keine übrigen Aufträge im Modul 187.|Unerfüllte Aufträge.|Fertigstellung von den aufträgen der Woche mit  Lernpartner falls nötig.||
-| 2             |Versuchen, eigene Modelle aufzuziegen.|Start vom Program.|Funktionales aufzeigen des Models.||
+| 1             |Probleme mit dem 3D Model lösen.|Eingabe eigenes Model.|Aufzeigung des eigenen Models.|Nein|
+| 2               |Keine übrigen Aufträge im Modul 187.|Unerfüllte Aufträge.|Fertigstellung von den aufträgen der Woche mit  Lernpartner falls nötig.| Nein |
+| 3               |Unerfüllte Aufträge im Modul 106.|Unerfüllte Aufträge.|Fertigstellung von den Aufgaben.|Ja|
+| 4             |Bruach von einem Portfolio für Modul 106.|Bearbeitung von Portfolio.|Verbessertes und refinierteres Portfolio|Nein|
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Meine Ambitionen für die Lernperiode wahren hoch, doch leider wurde der Programmierprozess nach ein paar Wochen sehr schwierig. Am Anfang ging alles sehr schnell und ich hatte ein gutes Gefühl über dieses Projekt. Ich implementierte die 3D Funktionen mit einem einfachen Tutorial, das ich auf YouTube gefunden hatte. Im Nachhinein habe ich gemerkt, dass ich damit nicht ganz funktional arbeiten kann, also habe ich versucht, verschiedene Methoden und Wege zu finden, die 3D Funktionen einzufügen, aber nichts hat funktioniert. Dieses Thema war komplizierter als ich gedacht hätte und ihr war zu unerfahren, um darin weiterzuarbeiten. 
+Für mein nächstes Projekt würde ich gerne wieder mit C# arbeiten, indem ich versuchen würde, mich ein wenig bekannter zu machen mit Unity. Ich werde versuchen, nicht allzu ambitiös zu sein, wie mit dem vorherigen Projekt. (131)
+
